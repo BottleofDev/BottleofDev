@@ -1,7 +1,7 @@
 # BottleofDev
 ### To do:
 - [ ] Make upgrade to this README.
-- [ ] Start working on a game.
+- [X] Start working on a game.
 - [ ] Update the profile.
 - [ ] Make a web tool for fun.
 - [ ] Get popular.

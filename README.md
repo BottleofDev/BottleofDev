@@ -3,8 +3,8 @@
 - [ ] Make upgrade to this README.
 - [X] Start working on a game.
 - [ ] Update the profile.
-- [ ] Make a web tool for fun.
-- [ ] Get popular.
+- [ ] Make a tool for fun.
+- [ ] Get popular. -# Imagine
 <!-- An FAQ/Q&A? No, just saying what shit I'm doing, even tho no one cares... -->
 
 <!-- And mayybe it'll be my portfolio or some "about me" shit... heh -->
